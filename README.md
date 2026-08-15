@@ -33,10 +33,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 4 |
-| 🔴 Hard | 1 |
-| **Total** | **6** |
+| 🟢 Easy | 4 |
+| 🟡 Medium | 8 |
+| 🔴 Hard | 2 |
+| **Total** | **14** |
 
 > I update this repository regularly as I solve new problems.
 
