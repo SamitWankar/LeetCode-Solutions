@@ -35,8 +35,8 @@ LeetCode-Solutions/
 |------------|--------|
 | 🟢 Easy | 7 |
 | 🟡 Medium | 13 |
-| 🔴 Hard | 2 |
-| **Total** | **22** |
+| 🔴 Hard | 3 |
+| **Total** | **23** |
 
 > I update this repository regularly as I solve new problems.
 
