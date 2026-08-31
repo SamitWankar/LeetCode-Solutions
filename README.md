@@ -34,9 +34,9 @@ LeetCode-Solutions/
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 7 |
-| 🟡 Medium | 13 |
-| 🔴 Hard | 3 |
-| **Total** | **23** |
+| 🟡 Medium | 14 |
+| 🔴 Hard | 4 |
+| **Total** | **25** |
 
 > I update this repository regularly as I solve new problems.
 
